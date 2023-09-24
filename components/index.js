@@ -6,6 +6,7 @@ import Welcome from './home/Welcome';
 
 import DrinkAbout from './drinkdetails/DrinkAbout';
 import DrinkDisplay from './drinkdetails/DrinkDisplay';
+import DrinkFooter from './drinkdetails/DrinkFooter';
 import DrinkRecipe from './drinkdetails/DrinkRecipe';
 import DrinkTabs from './drinkdetails/DrinkTabs';
 
@@ -16,6 +17,7 @@ export {
 	Welcome,
 	DrinkAbout,
 	DrinkDisplay,
+	DrinkFooter,
 	DrinkRecipe,
 	DrinkTabs
 };

@@ -14,6 +14,7 @@ import { COLORS, icons, SIZES } from '../../constants';
 import {
 	DrinkAbout,
 	DrinkDisplay,
+	DrinkFooter,
 	DrinkRecipe,
 	DrinkTabs,
 	ScreenHeaderButton
@@ -97,6 +98,7 @@ const DrinkDetails = () => {
 						</View>
 					)}
 				</ScrollView>
+				<DrinkFooter />
 			</>
 		</SafeAreaView>
 	);
